@@ -8,3 +8,12 @@
 - git commit -m "message"
 - git log
 - git checkout
+- git checkout master
+- git switch Testing
+- git branch
+- git checkout -d Testing -to delete a branch
+- git checkout main
+- git remote add origin https://
+- git pull
+- git merge `<branch name>`
+- git push
